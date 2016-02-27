@@ -1,0 +1,32 @@
+{
+  "name": "taskgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game2.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-espower": "^1.0.1",
+    "gulp-mocha": "^2.1.3",
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "paver test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yattom/taskgame.git"
+  },
+  "author": {
+    "name": "yattom",
+    "email": "tsutomu.yasui@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yattom/taskgame/issues"
+  },
+  "homepage": "https://github.com/yattom/taskgame#readme"
+}

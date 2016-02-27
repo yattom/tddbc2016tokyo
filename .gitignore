@@ -1,0 +1,19 @@
+# JetBrains
+.idea/workspace.xml
+.idea/tasks.xml
+*.iws
+
+# node.js
+node_modules
+
+# python virtualenv
+.venv/
+Scripts/
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+
+# local (Windows)
+env.bat
