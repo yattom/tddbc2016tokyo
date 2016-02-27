@@ -37,6 +37,7 @@
       is_left_side(point_a, point_b) ||
       is_right_side(point_a, point_b)
     );
+    // return Math.abs(point_a.x - point_b.x) + Math.abs(point_a.y - point_b.y) == 1
   };
 
   exports.Foo = {
